@@ -1,0 +1,16 @@
+.CoinFlip{
+    text-align: center;
+}
+.CoinFlip button{
+    color:white;
+    background-color: #451e3e;
+    padding: 7px 10px;
+    border: none;
+    border-radius: 5px;
+}
+.CoinFlip h1{
+    color: #011f4b;
+}
+.CoinFlip p{
+    color: #283655;
+}
